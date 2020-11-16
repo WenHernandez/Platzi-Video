@@ -18,17 +18,18 @@ En cuenta podemos visualizar que al primer lugar donde nos enviaran es a la pagi
 ## Enlace al sitio: 
 - Platzi Video: [Clic aqui :)](https://wenhernandez.github.io/Platzi-Video/ "Platzi Video")
 
+<br/>
+
 <div class="Logos">
-  
 <h4>Logo del Sitio Web</h4>
 <img src="https://i.ibb.co/3rbdRKQ/logo-platzi-video-BW2.png" alt="logo-platzi-video-BW2" border="0" width=500px>
 
 <h4>Logo Personal</h4>
 <img src="https://i.ibb.co/1Rhtxr0/icon-Max.png" alt="icon-Max" border="0" width="500px">
-
 </div>
 
 > Desarrolladora: **Wendy Hernández.**
+
 
 <br/>
 
@@ -38,7 +39,8 @@ En cuenta podemos visualizar que al primer lugar donde nos enviaran es a la pagi
 *Todo el contenido vertido en este proyecto es unicamente con proposito **practico.** El contenido en este sitio web es **ilustrativo** y solo cuenta con funcionalidades a nivel de **diseño**; en otras palabras, esta hecho solo con **HTML5** y  **CSS3.***
 
 
-<br/>
+
+<br>
 
 
 > **Ten un buen dia. Gracias por leer :3**
