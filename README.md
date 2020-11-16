@@ -1,3 +1,4 @@
+
 # Platzi Video
 
 
@@ -12,6 +13,10 @@ En el **Home** tambien encontramos otros apartados importantes para el Sitio Web
 
 En cuenta podemos visualizar que al primer lugar donde nos enviaran es a la pagina de **Iniciar Sesion.** Se presenta en un formato habitual.  De no querer Iniciar Seion se cuenta tambien con un enlace que nos redirige a la pagina para **Registrarse.** Por ultimo, en el parte final de cada una de las paginas se encuentra el llamado **Footer**, donde se podra entrar mas informacion. 
 
+<br/>
+### Enlace al sitio: 
+- Platzi Video: [Clic aqui :)](https://wenhernandez.github.io/Platzi-Video/ "Platzi Video")
+
 <div class="Logos">
 <h4>Logo del Sitio Web</h4>
 <img src="https://i.ibb.co/3rbdRKQ/logo-platzi-video-BW2.png" alt="logo-platzi-video-BW2" border="0" width=500px>
@@ -24,14 +29,13 @@ En cuenta podemos visualizar que al primer lugar donde nos enviaran es a la pagi
 
 <br/>
 
-### Enlace al sitio:
-Platzi Video: [Clic aqui :)](https://wenhernandez.github.io/Platzi-Video/ "Platzi Video")
 
-<br/>
 
-##Aclaracion Importante!
+## Aclaracion Importante!
 *Todo el contenido vertido en este proyecto es unicamente con proposito **practico.** El contenido en este sitio web es **ilustrativo** y solo cuenta con funcionalidades a nivel de **diseño**; en otras palabras, esta hecho solo con **HTML5** y  **CSS3.***
 
+
 <br/>
+
 
 > **Ten un buen dia. Gracias por leer :3**
