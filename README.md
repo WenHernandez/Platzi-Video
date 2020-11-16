@@ -25,7 +25,7 @@ En cuenta podemos visualizar que al primer lugar donde nos enviaran es a la pagi
 <br/>
 
 ### Enlace al sitio:
-Platzi Video: [Clic aqui :)](https://wenhernandez.github.io/PlatziVideo/ "Platzi Video")
+Platzi Video: [Clic aqui :)](https://wenhernandez.github.io/Platzi-Video/ "Platzi Video")
 <br/>
 
 ##Aclaracion Importante!
