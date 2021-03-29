@@ -20,14 +20,6 @@ En cuenta podemos visualizar que al primer lugar donde nos enviaran es a la pagi
 
 <br/>
 
-<div class="Logos">
-<h4>Logo del Sitio Web</h4>
-<img src="https://i.ibb.co/3rbdRKQ/logo-platzi-video-BW2.png" alt="logo-platzi-video-BW2" border="0" width=500px>
-
-<h4>Logo Personal</h4>
-<img src="https://i.ibb.co/1Rhtxr0/icon-Max.png" alt="icon-Max" border="0" width="500px">
-</div>
-
 > Desarrolladora: **Wendy Hernández.**
 
 
